@@ -214,10 +214,4 @@ Key technical achievements:
 - Context-aware conversation management
 - Regional intelligence for specific user demographics
 
-## Contributing
 
-This project was developed as a demonstration of conversation-first LLM engineering. The codebase prioritizes clarity and educational value over production optimization.
-
-## License
-
-[Add your chosen license here]
